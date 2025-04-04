@@ -29,6 +29,7 @@
 [add file image](https://github.com/netology-code/sys-pattern-homework/commit/801b0125afaedbaf3842d6976a8cd0990ebfadcf?diff=split)
 
 **1-11**
+
 ![1_11][def]
 
 ---
